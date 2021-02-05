@@ -1,0 +1,4 @@
+tags: sogang sogang1 sogang1b sogang1b5 grammar
+-을까요? (문법)|sentence ending to express a proposition. e.g. Shall we ... (grammar)
+-하고 (문법)|this is added to nouns to mean "with" and can be used to connect nouns to mean "and". (grammar)
+-고 (문법)|this is used link two main clauses. (grammar)
