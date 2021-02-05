@@ -1,0 +1,12 @@
+tags: sogang sogang1 sogang1a sogang1a2 dialogues
+내일|tomorrow
+생일|birthday
+-원|won
+전화번호|telephone number
+표|ticket
+A. 맞아요? B. 네, 멎아요.|A. Is that right? B. Yes, that's right.
+생일이 며칠이에요?|What date is your birthday?
+어서 오세요|Welcome
+얼마예요?|How much is it?
+전화번호가 몇 번이에요?|What is your telephone number?
+생일 축하합니다|Happy birthday

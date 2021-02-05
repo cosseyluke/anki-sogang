@@ -1,0 +1,12 @@
+tags: sogang sogang1 sogang1a sogang1a5 dialogues
+공원|park
+근처|near/nearby
+빌딩|building
+얼쇠|key
+저기|there/that place
+지갑|wallet
+편의점|convenience store
+산책하다|to take a walk
+혹시|maybe (utterance often used before asking a question)
+A. 감사합니다 B. 아니에요|A. Thank you B. You're welcome
+이쪽으로 가세요|Go this way

@@ -1,0 +1,25 @@
+tags: sogang sogang1 sogang1b sogang1b1 adjectives
+가깝다|to be close
+멀다|to be far
+길다|to be long
+짧다|to be short
+높다|to be high
+낮다|to be low
+덥다|to be hot
+춥다|to be cold
+많다|to be many
+적다|to be few
+맛있다|to be delicious
+맛없다|to not be delicious
+비싸다|to be expensive
+싸다|to be cheap
+빠르다|to be fast
+느리다|to be slow
+어렵다|to be difficult
+쉽다|to be easy
+작다|to be small
+크다|to be big
+재미있다|to be interesting
+재미없다|to not be interesting
+좋다|to be good
+나쁘다|to be bad

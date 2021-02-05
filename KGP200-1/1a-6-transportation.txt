@@ -1,0 +1,20 @@
+tags: sogang sogang1 sogang1a sogang1a6 transportation
+고속버스|express bus
+교통|traffic
+기차|train
+배|ship/vessel
+버스|bus
+비행기|airplane
+자동차|car
+자전거|bicycle
+지하철|subway
+... 호선|subway line
+KTX|Korean express train
+걸어서|on foot
+갈아타다|to transfer (between subway lines, busses etc)
+내리다|to get off (transportation)
+타다|to ride/take/get on (transportation)
+버스 정류장|bus stop
+지하철 역|subway station
+어떻게 가요?|how do I get to ...?
+얼마나 걸려요?|how long does it take?

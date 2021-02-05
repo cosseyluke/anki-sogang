@@ -1,0 +1,11 @@
+tags: sogang sogang1 sogang1a sogang1a5 location
+위|above/on
+아래|below/under
+앞|in front of/ahead of
+뒤|behind
+옆|beside/next to
+안|inside/in
+밖|outside
+사이|between
+왼쪽|left
+오른쪽|right

@@ -1,0 +1,4 @@
+tags: sogang sogang1 sogang1b sogang1b4 grammar
+-을 줄 알아요/몰라요 (문법)|sentence ending to express the subject knows/doesn't know how to do a certain action (grammar)
+-아/어야 해요 (문법)|sentence ending to express necessity (grammar)
+-거나 (문법)|added to verbs/adjectives to express options e.g. I will do either ... or ... (grammar)

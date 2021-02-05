@@ -1,0 +1,30 @@
+거울|mirror|sogang sogang1 sogang1a sogang1a-0-3 bathroom
+빗|comb|sogang sogang1 sogang1a sogang1a-0-3 bathroom
+비누|soap|sogang sogang1 sogang1a sogang1a-0-3 bathroom
+치약|tooth paste|sogang sogang1 sogang1a sogang1a-0-3 bathroom
+칫솔|tooth brush|sogang sogang1 sogang1a sogang1a-0-3 bathroom
+휴지|tissue/toilet paper|sogang sogang1 sogang1a sogang1a-0-3 bathroom
+텔레비전|TV|sogang sogang1 sogang1a sogang1a-0-3
+냉장고|fridge|sogang sogang1 sogang1a sogang1a-0-3 kitchen
+숟가락|spoon|sogang sogang1 sogang1a sogang1a-0-3 kitchen
+젇가락|chopsticks|sogang sogang1 sogang1a sogang1a-0-3 kitchen
+지갑|wallet|sogang sogang1 sogang1a sogang1a-0-3 clothing
+가위|scissors|sogang sogang1 sogang1a sogang1a-0-3 stationary
+사탕|candy|sogang sogang1 sogang1a sogang1a-0-3
+풀|glue|sogang sogang1 sogang1a sogang1a-0-3 stationary
+자|ruler|sogang sogang1 sogang1a sogang1a-0-3 stationary
+칼|knife|sogang sogang1 sogang1a sogang1a-0-3 kitchen
+샤프|mechanical pencil|sogang sogang1 sogang1a sogang1a-0-3
+신발|shoes|sogang sogang1 sogang1a sogang1a-0-3 clothing
+사진|photo|sogang sogang1 sogang1a sogang1a-0-3
+종이|paper|sogang sogang1 sogang1a sogang1a-0-3 stationary
+명|people counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+개|thing counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+병|bottle counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+장|paper counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+잔|cup counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+권|book counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+마리|animal counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+송이|flower counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+켤레|shoe counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+몆|how many?|sogang sogang1 sogang1a sogang1a-0-3 numbers counters

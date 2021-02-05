@@ -1,0 +1,13 @@
+tags: sogang sogang1 sogang1b sogang1b3 body
+귀 (몸)|ear
+눈 (몸)|eye
+다리 (몸)|leg
+머리 (몸)|hair/head
+목 (몸)|neck/throat
+무릎 (몸)|knee
+발 (몸)|foot
+배 (몸)|stomach/abdomen
+어깨 (몸)|shoulder
+이 (몸)|tooth
+입 (몸)|mouth
+코 (몸)|nose

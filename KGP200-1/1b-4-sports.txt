@@ -1,0 +1,11 @@
+tags: sogang sogang1 sogang1b sogang1b4 sports
+농구하다|to play basketball
+야구하다|to play baseball
+축구하다|to play football
+수영하다|to swim
+태권도를 하다|to do taekwondo
+골프를 치다|to play golf
+탁구를 치다|to play table tennis
+테니스를 치다|to play tennis
+스케이트를 타다|to skate
+스키를 타다|to ski
