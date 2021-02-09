@@ -1,6 +1,6 @@
 tags: sogang sogang1 sogang1b sogang1b6 excuses
 감기에 걸어서|because I caught a cold
-건간이 안 좋아서|because I'm in bad health
+건강이 안 좋아서|because I'm in bad health
 너무 피곤해서|because I'm tired
 다른 약속이 있어서|because I have another appointment
 머리가 아파서|because I have a headache
@@ -8,5 +8,5 @@ tags: sogang sogang1 sogang1b sogang1b6 excuses
 배가 아파서|because I have a stomachache
 숙제가 많아서|because I have a lot of homework
 시간이 없어서|because I don't have time
-시험이 있어요|because I'll take an exam
+시험이 있어서|because I'll take an exam
 일이 생겨서|because I have something to do
