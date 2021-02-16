@@ -1,0 +1,5 @@
+tags: sogang sogang1 sogang1b sogang1b8 house
+방|room
+위치|location/place
+하숙집|boarding house
+이사하다|to move
