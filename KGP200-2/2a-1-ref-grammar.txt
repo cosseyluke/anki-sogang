@@ -1,0 +1,9 @@
+tags: sogang sogang2 sogang2a sogang2a1 grammar reference
+(1) 이 (2) 저 (3)그 (문법)| used for object or person. (1) used when it's near the speaker (2) when it's far from the speaker and listener but in sight (3) when it's far from the speaker and close to the listener or out of sight (grammar)
+제 (문법)|my (grammar)
+<명사>은/는요? (문법)|how about <noun>? returns the question asked (grammar)
+<명사>와/과 (문법)|with/and and similar to 하고 but used only on nouns (grammar)
+<며사>이라서/라서 (문법) |because of, to be used with nouns (grammar)
+-으면 (문법) |used with nouns, verbs and adj to indicate a condition or supposition. Same meaning as if-then or when-then (grammar)
+-으십시오 (문법) |used when politely telling someone to do something (grammar)
+<명사>처럼 (문법) |like, or the same as (grammar)
