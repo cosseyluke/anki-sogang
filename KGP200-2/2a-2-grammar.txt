@@ -1,0 +1,4 @@
+tags: sogang sogang2 sogang2a sogang2a2 grammar
+-고 있다 (문법)|used to express actions in progress or repeated actions. Usually used with 지금 and 요즘 (grammar)
+-은 다음에 (문법)|used to express doing another action after completing one action. same meaning as "after doing something" or "after something happens" (grammar)
+-으려고 (문법)|express purpose or intention of an action. <action> in order to do ... (grammar)

@@ -1,0 +1,4 @@
+tags: sogang sogang2 sogang2a sogang2a2 grammar reference
+<명사>이요 (문법)|used with nouns to avoid repeating the predicate of a question in it's response (grammar)
+"..."라고 말하다 (문법)|(someone) said "..." (grammar)
+<명사>은/는 ... <명사>은/는 (문법)|used to compare a noun with another noun (grammar)
