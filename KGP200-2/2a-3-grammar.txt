@@ -1,0 +1,4 @@
+tags: sogang sogang2 sogang2a sogang2a3 grammar
+-을 때 (문법)|used to express the time/occurrence of a particular actor or state. the meaning is like "when" or "while" (grammar)
+-기 전에 (문법)|used to express an action that is done or occurs before another action. the meaning is like "before", or "before <verb> happens" (grammar)
+-아/어서 [x2] (문법)|so/because, it is used to express a reason or cause for an action. also used to express doing one action then another, with an implied connection (limited to verbs like 가다, 오다, 일어나다, 전화하, 만나다, 앉다, 눕다, 서다...) (grammar)

@@ -5,7 +5,7 @@ tags: sogang sogang1 sogang1a sogang1a6 dialogues
 피곤하다|to be tired
 언제|when
 결혼(을) 하다|to get married
-빨래(를) 하다|to do laundry
+빨래하다|to do laundry
 요리(를) 히다|to cook
 이사(를) 하다|to move house
 인터넷(을) 하다|to use the internet

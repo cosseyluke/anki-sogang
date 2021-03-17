@@ -1,0 +1,5 @@
+tags: sogang sogang2 sogang2a sogang2a3 grammar reference
+-지만 (문법)|but. this joins two sentenses (grammar)
+가끔 (문법)|sometimes (grammar)
+별로 -지않다 (문법)|seldom/rarely (grammar)
+전혀 -지않다 (문법)|never (grammar)
