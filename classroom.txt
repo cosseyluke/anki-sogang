@@ -35,3 +35,6 @@ tags: sogang classroom
 명사|noun
 표현|expression
 문법|grammar
+과거|past (tense)
+현재|present (tense)
+미래|future (tense)
