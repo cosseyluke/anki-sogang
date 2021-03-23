@@ -1,5 +1,5 @@
 tags: sogang sogang1 sogang1a sogang1a6 listening-speaking
-...둥안|during/while
+...동안|during/while
 약속 시간|meeting/appointment time
 약속 장소|meeting place
 기다리다|to wait
