@@ -1,0 +1,4 @@
+tags: sogang sogang2 sogang2a sogang2a6 grammar
+-아/어도 되다 (문법)|used to ask for or to give permission to do something (grammar)
+-으면 안 되다 (문법)|used to express a refusal of permission or a prohibition against doing something (grammar)
+-은/는데요 (문법)|used to convey information about a certain situation and wait for the listeners response (grammar)
