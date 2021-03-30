@@ -15,4 +15,4 @@ tags: sogang sogang2 sogang2a sogang2a6 dialogues
 숙제를 내다|to hand in one's homework
 출장을 가다|to go on a business trip
 팩스가 안 되는데요|the fax won't go through
-한 수 없지요|we have no choice/it can't be helped
+할 수 없지요|we have no choice/it can't be helped
