@@ -1,0 +1,20 @@
+tags: sogang sogang2 sogang2a sogang2a7 colour
+빨간색|red
+분홍색|pink
+주황색|orange
+녹색|green
+초록색|green
+연두색|lime green
+파란색|blue
+하늘색|sky blue
+남색|navy blue
+보라색|purple
+하얀색|white
+흰색|white
+베이지색|beige
+노란색|yellow
+갈색|brown
+회색|grey
+까만색|black
+검정색|black
+검은색|black
