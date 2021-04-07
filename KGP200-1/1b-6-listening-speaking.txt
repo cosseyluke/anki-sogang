@@ -3,7 +3,7 @@ tags: sogang sogang1 sogang1b sogang1b6 listening-speaking
 길|street/road
 동전|coin
 생일 카드|birthday card
-늦다|to be late
+(-에) 늦다|to be late (for)
 보통|usually/normally/commonly
 가지고 오다|to bring (something) with
 길이 막히다|to be jammed/blocked (by traffic) (on the road)
