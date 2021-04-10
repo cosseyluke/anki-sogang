@@ -12,7 +12,7 @@ tags: sogang sogang2 sogang2a sogang2a8 reading-speaking
 불|flame/fire
 식용유|cooking oil
 양파 (야채)|onion
-재요|ingredients
+재료|ingredients
 피망 (야채)|capsicum
 물을 끓이다|to boil water
 불을 끄다|to put out the flame
