@@ -13,7 +13,7 @@ tags: sogang sogang2 sogang2a sogang2a1 reading-speaking
 취미|hobby/interest
 다시|again/repeat
 제일 (문법)|the most, a superlative compares one part in relation to a larger group (grammar)
-또|also/too
+또|also/too/again
 하지만|but
 아직 잘 못해요|I can't do (something) well yet
 참 좋아요|it's really good
