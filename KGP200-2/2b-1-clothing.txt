@@ -19,4 +19,6 @@ tags: sogang sogang2 clothing
 목걸이 (하다)|necklace
 귀걸이 (하다)|earring
 넥타이 (하다)|neck tie
-목도리 (하다)|scarf
+목도리 (끼다)|scarf
+장갑 (끼다)|gloves
+반지 (끼다)|rings

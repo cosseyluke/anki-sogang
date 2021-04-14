@@ -8,7 +8,7 @@ tags: sogang sogang2 sogang2a sogang2a7 dialogues
 반팔 티셔츠 (입다)|short-sleeved t-shirt
 배 (과일)|pear
 손님|customer
-스웨터|sweater
+스웨터 (입다)|sweater
 아줌마|title for middle-aged woman
 야채|vegetable
 오이 (야채)|cucumber
