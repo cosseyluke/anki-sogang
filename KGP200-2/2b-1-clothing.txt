@@ -1,0 +1,22 @@
+tags: sogang sogang2 clothing
+긴팔 셔츠 (입다)|long sleeve tshirt
+조끼 (입다)|vest
+재킷 (입다)|jacket
+점퍼 (입다)|jumper
+양복 (입다)|formal suit
+정장 (입다)|formal attire
+코트 (입다)|coat
+치마 (입다)|skirt
+청바지 (입다)|jeans
+부츠 (신다)|boots
+구두 (신다)|formal shoes
+운동화 (신다)|athletic shoes
+샌들 (신다)|sandals
+슬리퍼 (신다)|slippers
+양말 (신다)|socks
+스타킹 (신다)|stockings
+벨트 (하다)|belt
+목걸이 (하다)|necklace
+귀걸이 (하다)|earring
+넥타이 (하다)|neck tie
+목도리 (하다)|scarf

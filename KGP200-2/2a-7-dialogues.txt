@@ -4,8 +4,8 @@ tags: sogang sogang2 sogang2a sogang2a7 dialogues
 딸기 (과일)|strawberry
 마리|counter for fish/animals
 생선|fish
-반바지|shorts
-반팔 티셔츠|short-sleeved t-shirt
+반바지 (입다)|shorts
+반팔 티셔츠 (입다)|short-sleeved t-shirt
 배 (과일)|pear
 손님|customer
 스웨터|sweater
