@@ -1,7 +1,7 @@
 tags: sogang sogang2 sogang2a midterm ref
 관심|attention
 관심이 있다|to be interested
-구하다|to save/rescue
+구하다|to search/ask/save/rescue
 건너다|to cross
 잊어버리다|to forget
 코미디|comedy
