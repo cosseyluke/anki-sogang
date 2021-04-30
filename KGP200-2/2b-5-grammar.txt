@@ -1,0 +1,4 @@
+tags: sogang sogang2 sogang2b sogang2b5 grammar
+-아/어지다 (문법)|used to indicate a change or development from a certain condition to another (grammar)
+-아/어도 (문법)|has the same meaning as "even if ..." or "even though ..." (grammar)
+으라고 하다 (문법)|used on commands to quote what someone said (grammar)
