@@ -27,4 +27,4 @@
 마리|animal counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
 송이|flower counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
 켤레|shoe counter|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
-몆|how many?|sogang sogang1 sogang1a sogang1a-0-3 numbers counters
+몇|how many?|sogang sogang1 sogang1a sogang1a-0-3 numbers counters

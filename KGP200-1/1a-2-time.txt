@@ -7,4 +7,4 @@ tags: sogang sogang1 sogang1a sogang1a2 time
 밤|night
 시|hour
 분|minute
-A. 지굼 몆 시 반이에요? B. 여덟 시 반이에요|A. What time is it? B. It's 8:30
+A. 지굼 몇 시 반이에요? B. 여덟 시 반이에요|A. What time is it? B. It's 8:30
