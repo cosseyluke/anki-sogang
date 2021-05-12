@@ -1,0 +1,4 @@
+tags: sogang sogang2 sogang2b sogang2b9 grammar
+-았/었을 때 (문법)|used to express the time/occurrence of a particular action or state in the past (grammar)
+-게 되다 (문법)|used to express a final condition after a change has occurred. Usually expressed in the past tense, because it describes a condition has already changed (grammar)
+기로 했어요 (문법)|used to express the speaker's resolution to do something in the future (grammar)
