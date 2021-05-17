@@ -6,7 +6,7 @@ tags: sogang sogang1 sogang1b sogang1b3 health
 감기에 걸리다|to catch a cold
 건강이 안 좋다|to be in bad health
 약을 먹다|to take medication
-열이 니다|to run a fever
+열이 나다|to run a fever
 빨리 나으세요|get well soon
 어디 아프세요?|are you hurt (ill) / where are you hurt?
 얼굴이 안 좋으세요|you don't look well
