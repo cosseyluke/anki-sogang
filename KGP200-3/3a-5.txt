@@ -19,6 +19,6 @@ tags: sogang sogang3 sogang3a sogang3a5
 얌전하다 [형용사]|to be gentle, well-behaved, modest (usually used to describe females) [형용사]
 유머 감각이 있다 [형용사]|to be humorous, to have a sense of humor [형용사]
 이해심이 많다 [형용사]|to be very understanding [형용사]
-적극적이다 [명사]|to be active [명사]
+적극적이다 [형용사]|to be active [형용사]
 점잖다 [형용사]|to be gentle (usually used with males) [형용사]
-활동적이다 [명사]|to be active, energetic [명사]
+활동적이다 [형용사]|to be active, energetic [형용사]
