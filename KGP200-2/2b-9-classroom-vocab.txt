@@ -22,7 +22,7 @@ tags: sogang sogang2 2b 2b9 classroom
 양말 [명사]|socks [noun]
 침대 [명사]|bed [noun]
 창문 [명사]|window [noun]
-면도하다 [동사]|to save [verb]
+면도하다 [동사]|to shave [verb]
 거울을 보다 [동사]|to check the mirror [verb]
 뜨겁다 [형용사]|to be hot (for objects) [adj]
 차다/차갑다 [형용사]|to be cold (for objects) [adj]
