@@ -1,0 +1,9 @@
+tags: sogang sogang3 sogang3a sogang3a6 dialogues
+결과 [명사]|a result [명사]
+상대방 [명사]|the person being spoken to (in a conversation) [명사]
+원본 [명사]|an original copy [명사]
+누르다 [동사]|to press, push down [동사]
+인쇄하다 [동사]|to print [동사]
+클릭하다 [동사]|to click [동사]
+통화 중 [기타/표현]|The line is busy. (the person being called is on the phone) [기타/표현]
+현금 인출기 [기타/표현]|ATM [기타/표현]
