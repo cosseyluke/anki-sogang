@@ -2,7 +2,7 @@ tags: sogang sogang3 sogang3a sogang3a4 dialogues
 교수님 [명사]|a professor (honorific form) [명사]
 부장님 [명사]|a department manager (honorific form) [명사]
 연구실 [명사]|a research lab [명사]
-환솔회 [명사]|a farewell party [명사]
+환송회 [명사]|a farewell party [명사]
 뵈다 [동사]|to see (humble form 보다) [동사]
 칭찬하다 [동사]|to praise [동사]
 수업 중 [기타/표현]|(to be) in class [기타/표현]

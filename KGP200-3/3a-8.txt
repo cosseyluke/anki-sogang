@@ -10,7 +10,7 @@ tags: sogang sogang3 sogang3a sogang3a8
 보통 우편 [명사]|ordinary mail [명사]
 빠른 우편 [명사]|express mail [명사]
 은행 [명사]|a bank [명사]
-고지서 [명사]|a bill [명사]
+고지서 [명사]|a bill/invoice [명사]
 금액 [명사]|an amount of money [명사]
 번호표를 뽑다 [동사]|to take a number (ticket) [동사]
 비밀 번호 [명사]|a PIN number [명사]
