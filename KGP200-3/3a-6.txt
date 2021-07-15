@@ -9,7 +9,7 @@ tags: sogang sogang3 sogang3a sogang3a6
 플러그 [명사]|a plug [명사]
 연결이 잘못되어 있다 [기타/표현]|to be improperly connected [기타/표현]
 종이가 걸리다 [기타/표현]|to have a paper jam [기타/표현]
-컴퓨터가 안 켜리다 [기타/표현]|to be not switched on (computer) [기타/표현]
+컴퓨터가 안 켜지다 [기타/표현]|to be not switched on (computer) [기타/표현]
 토너가 떨어지다 [기타/표현]|to be out of toner [기타/표현]
 고객 [명사]|a customer [명사]
 고객 상담실 [명사]|customer inquiries center [명사]
