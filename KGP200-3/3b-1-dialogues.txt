@@ -8,7 +8,7 @@ tags: sogang sogang3 sogang3b sogang3b1 dialogues
 조언하다 [동사]|to advise, counsel [동사]
 (-이/가) (-보다) 낫다 [형용사]|to be better than [형용사]
 부지런하다 [형용사]|to be diligent [형용사]
-맛이 좋다 [기타/표현]|to taste good
+맛이 좋다 [기타/표현]|to taste good [기타/표현]
 여러 군데 [기타/표현]|many places [기타/표현]
 차가 밀리다 [기타/표현]|to be lined up (in traffic) [기타/표현]
 향이 좋다 [기타/표현]|to smell good [기타/표현]

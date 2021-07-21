@@ -4,7 +4,7 @@ tags: sogang sogang3 sogang3a sogang3b1
 쌀쌀하다 [형용사]|to be chilly [형용사]
 안개가 끼어 있다 [형용사]|to be foggy [형용사]
 태풍이 오다 [기타/표현]|the typhoon is coming [기타/표현]
-태풍이 지나갔다 [기타/표현]|the typhoon has passed
+태풍이 지나갔다 [기타/표현]|the typhoon has passed [기타/표현]
 햇빛이 강하다 [형용사]|to be very sunny [형용사]
 흐리다 [형용사]|to be cloudy [형용사]
 여행지 [명사]|travel destination [명사]
