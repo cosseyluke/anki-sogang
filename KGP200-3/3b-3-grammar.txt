@@ -1,0 +1,4 @@
+tags: sogang sogang3 sogang3b sogang3b3 grammar
+<동사/있다>았/었더니 (1) (문법)|used when explaining that a certain result in the present is caused from a certain action in the past (what happened -> the result/feeling) (문법)
+<동사/있다>았/었더니 (2) (문법)|used to describe a previous conversation. It connects the speaker's statement and the listner's reply (connected with reported speech 다고 하다) (문법)
+-다가 (2) (문법)|used when a different action, which is negative and no anticipated happened during the original action (문법)
