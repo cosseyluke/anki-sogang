@@ -1,14 +1,14 @@
 tags: sogang sogang3 sogang3b sogang3b6 dialogues
-날 [명사]|day [명사]
-청소하기로 한 날 [기타/표현]|cleaning day [기타/표현]
-발표 [명사]|presentation [명사]
-보고서 [명사]|report [명사]
-세미나 [명사]|seminar [명사]
-세탁기 [명사]|washing machine [명사]
-자료 [명사]|data, material [명사]
-짐 [명사]|ㅣload [명사]
+날 [명사]|day [명사]|
+청소하기로 한 날 [기타/표현]|cleaning day [기타/표현]|
+발표 [명사]|presentation [명사]|
+보고서 [명사]|report [명사]|
+세미나 [명사]|seminar [명사]|
+세탁기 [명사]|washing machine [명사]|
+자료 [명사]|data, material [명사]|
+짐 [명사]|ㅣload [명사]|
 짐을 싸다 [동사]|to pack [동사]|something
-후문 [명사]|back gate [명사]
-걸레질하다 [동사]|to mop [동사]
-세탁기를 돌리다 [기타/표현]|to use a washing machine to do laundry [기타/표현]
-정신이 없다 [기타/표현]|to not be able to think straight [기타/표현]
+후문 [명사]|back gate [명사]|
+걸레질하다 [동사]|to mop [동사]|
+세탁기를 돌리다 [기타/표현]|to use a washing machine to do laundry [기타/표현]|
+정신이 없다 [기타/표현]|to not be able to think straight [기타/표현]|

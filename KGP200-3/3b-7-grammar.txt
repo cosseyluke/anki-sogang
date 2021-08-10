@@ -1,0 +1,4 @@
+tags: sogang sogang3 sogang3b sogang3b7 grammar
+-았/었던 (문법)|a relative clause ending used to recall or reflect on past situations or events (문법)|
+-던 + <명사> (문법)|a relative clause ending used to reflect on a event, however when expressing repeated activity over a long period of time (문법)|often used with adverbs such as 자주, 종종, 주로
+<동사>고 나서 (문법)|used when one action occurs after another (문법)|it expresses that the first action is already completed by the time the second action occurs
