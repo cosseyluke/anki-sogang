@@ -7,7 +7,7 @@ tags: sogang sogang4 sogang4a sogang4a6 dialogues
 소곤소곤 [부]|speaking in hushed tones [부]|to keep other people from hearing
 글썽근썽 [부]|brimming with tears [부]|
 활짝 [부]|wide [부]|as when opening a door
-나비 [명]|butterfly [명]
+나비 [명]|butterfly [명]|
 고개 [명]|one’s head [명]|as in “to nod one’s head”
 올려다 보다 [동]|to look up [동]|
 꼬리 [명]|tail [명]|
