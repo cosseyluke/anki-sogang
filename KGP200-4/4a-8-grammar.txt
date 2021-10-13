@@ -1,0 +1,4 @@
+tags: sogang sogang4 sogang4a sogang4a8 grammar
+<명>만 해요 [문법]|used to indicate the subject is equal [문법]|in some respect to the word in front of 만
+<숫자>(이/가) 넘어요 [문법]|expresses the size or amount of something exceeds [문법]|the mentioned numerical value
+<숫자>(이/가) 안 돼요 [문법]|expresses that something is smaller or shorter [문법]|than the mentioned numerical value
