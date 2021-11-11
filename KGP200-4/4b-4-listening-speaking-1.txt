@@ -15,7 +15,7 @@ tags: sogang sogang4 sogang4b sogang4b4 listening-speaking
 상대 배우 [명]|the other actor [명]|the person acting alongside someone
 왜 이랬다 저랬다 해? [기타/표현]|Why are you going back and forth? [기타/표현]|
 무슨 소리야 [기타/표현]|What are you talking about? [기타/표현]|
-생중계 [명]|a live broadcast [명] [기타/표현]|
+생중계 [명]|a live broadcast [명]|
 긴장감을 느끼다 [기타/표현]|to feel suspense [기타/표현]|
 따라다니다 [동]|to follow (someone) around [동]|
 모르는 소리 좀 하지 마 [기타/표현]|Don't talk about things you don’t know anything about [기타/표현]|

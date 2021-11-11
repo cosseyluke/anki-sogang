@@ -15,5 +15,5 @@ tags: sogang sogang4 sogang4b sogang4b7 dialogues
 폭식 [명]|to binge [명]|to eat too much
 과반수 [명]|the majority [명]|more than half
 체중 조절 [명]|controlling one’s weight [명]|
-야식 [명]|snacking at night
+야식 [명]|snacking at night [명]|
 (모임을) 피하다 [기타/표현]|to avoid (going out with people) [기타/표현]|
