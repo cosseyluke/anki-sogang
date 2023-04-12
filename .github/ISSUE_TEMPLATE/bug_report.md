@@ -1,38 +1,59 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
----
-
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: ["bug", "triage"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Bug description
+      description: A brief and straightforward description of the bug.
+    validations:
+      required: true
+  - type: textarea
+    id: bug-logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: Shell
+  - type: textarea
+    id: bug-reproduction
+    attributes:
+      label: How to reproduce the bug
+      description: The method to follow to reproduce the behavior.
+      placeholder: |
+        e.g.
+        1. Created X
+        2. Deleted Y
+        3. Unexpected behavior appears
+    validations:
+      required: true
+  - type: textarea
+    id: code-snippet
+    attributes:
+      label: Code snippets
+      description: Include any code snippets that would help explain the bug.
+      render: python3
+  - type: input
+    id: os
+    attributes:
+      label: OS
+      placeholder: macOS
+  - type: input
+    id: language-version
+    attributes:
+      label: Language version
+      placeholder: Python 3.11.3
+    validations:
+      required: true
+  - type: input
+    id: sdk-version
+    attributes:
+      label: SDK version
+      placeholder: some-sdk v1.0.1
+    validations:
+      required: true
