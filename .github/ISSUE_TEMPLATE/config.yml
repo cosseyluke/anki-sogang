@@ -1,6 +1,7 @@
+# Ref: https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
 blank_issues_enabled: false
 contact_links:
   - name: Support
-    url: me@lukecossey.com
+    url: https://lukecossey.com
     about: |
       If you are having issues but they are not bug related, then please contact me.
