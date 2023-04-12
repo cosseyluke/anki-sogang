@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thank you for taking the time to fill out this bug report, please feel free to use either English or Korean. Also, please redact any confidential details in code examples and log outputs.
+        Thank you for taking the time to fill out this bug report, please feel free to use either English or Korean. Also please redact any confidential details in code examples and log outputs.
   - type: textarea
     id: bug-description
     attributes:
